@@ -25,7 +25,7 @@ Raw EEG data not included in repository.
 4. **Baseline correction:** None
 5. **Epoch window:** -100 to 500 ms relative to stimulus
 
-![ICA Plot](baseline_ICA.png)
+![ICA Plot](../figures/baseline_ICA.png)
 
 ---
 
@@ -54,7 +54,7 @@ Raw EEG data not included in repository.
 
 ### Permutation Test
 
-![Permutation Test Histogram](baseline_permutation_histogram.png)
+![Permutation Test Histogram](../figures/baseline_permutation_histogram.png)
 
 *Figure 1: Distribution of AUC scores from 100 permutations with shuffled labels. Red dashed line indicates observed AUC (0.733). p=0.20 indicates result is not statistically significant.*
 
@@ -62,7 +62,7 @@ Raw EEG data not included in repository.
 
 ## CSP Spatial Patterns
 
-![CSP Patterns](baseline_csp_patterns.png)
+![CSP Patterns](../figures/baseline_csp_patterns.png)
 
 *Figure 2: Spatial patterns for CSP components 0, 1, 12, and 13. No clear vertex (Cz/CPz) focus observed. Patterns are distributed across frontal-parietal regions, inconsistent with expected tibial SEP topography (P37 at vertex).*
 
