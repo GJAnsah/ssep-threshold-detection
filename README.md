@@ -2,7 +2,7 @@
 
 EEG + machine learning for objective detection of perceptual thresholds during transcutaneous electrical stimulation. Toward automated calibration of somatosensory neuroprostheses.
 
-![Experimental Setup](figures/experimental_setup.png)
+![Experimental Setup](figures/Experimental_Setup.png)
 
 ---
 
@@ -71,7 +71,7 @@ An objective, EEG-based method could detect the perceptual threshold by identify
 | REF | A1/A2 | Earlobe |
 | GND | AFz | Forehead |
 
-![EEG Montage](figures/eeg_montage.png)
+![EEG Montage](figures/eeg_montage.jpg)
 
 Montage designed based on tibial SEP literature emphasizing vertex (Cz/CPz) coverage where P37 component is maximal.
 
